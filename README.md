@@ -1,1 +1,0 @@
-### 🚨 Saving Lives Through Technology
