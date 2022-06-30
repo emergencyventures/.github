@@ -1,13 +1,8 @@
 ### 🚨 About Emergency Ventures
 
-- **MISSION** | Save Lives through Technology
-- **VISION** | Life Saving Technology in Every Community, in All Natural Disasters
-- **VALUES** | Innovation | Transparency | Collaboration | Accountability
-
-### 💪 Meet the Team
-
-- 😜 [Joe](https://github.com/josephrrusso)
-- 🤓 [Rohit](https://github.com/rdg922)
+- 🚀 **MISSION** | Save Lives through Technology
+- 💡 **VISION** | Life Saving Technology in Every Community, in All Natural Disasters
+- 🧭 **VALUES** | Innovation | Transparency | Collaboration | Accountability
 
 ### 🌎 How to Help
 
