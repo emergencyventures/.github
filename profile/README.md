@@ -12,5 +12,5 @@
 
 ### 🌎 How to Help
 
-- 💰 [Sponsor our Work](https://github.com/sponsors/EmergencyVentures)
-- 🤍 [Join our Volunteer Corps](https://emergency.ventures/)
+- 💰 **[Sponsor our Work](https://github.com/sponsors/EmergencyVentures)**
+- 🤍 **[Join our Volunteer Corps](https://emergency.ventures/)**
