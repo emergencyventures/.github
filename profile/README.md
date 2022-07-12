@@ -11,6 +11,6 @@
 - 📖 **Open Source Features** | Free impactful tools for citizens, emergency managers, and companies.
 
 ### 🌎 How to Help
-
+- ☕ **[But our Team Coffee](https://www.buymeacoffee.com/EmergencyTeam)
 - 💰 **[Sponsor our Work](https://github.com/sponsors/EmergencyVentures)**
 - 🤍 **[Join our Volunteer Corps](https://docs.google.com/forms/d/e/1FAIpQLScbkCXGF6VP-tg8m9PMlXrcdPbmEfXv72BX4w_nsVgTErVdZA/viewform/)**
