@@ -9,7 +9,7 @@
 - 📖 **Open Source Features** | Free impactful tools for citizens, emergency managers, and companies.
 
 ### 🙏 Volunteer Corps Contributions
-- ⚖️ **[What's a Contributor License Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)** | All volunteer contributions are subject to our CLA.
+- ⚖️ **[What's a Contributor Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)** | All volunteer contributions are subject to our CLA.
 - ✒️ **[Our Contribution Agreement](https://emergency.docsend.com/view/r5ff9nbkq9qn7ky4)** | For transparency, our agreements are public and signable by anyone.
 - 🟢 **[Getting Started](https://docs.google.com/forms/d/e/1FAIpQLScbkCXGF6VP-tg8m9PMlXrcdPbmEfXv72BX4w_nsVgTErVdZA/viewform/)** | Signup to contribute here and our team will touch base.
 
