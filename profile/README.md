@@ -1,4 +1,4 @@
-### 🚨 About Emergency Ventures
+### 🚨 About Emergency
 - 🚀 **MISSION** | Save Lives through Technology
 - 💡 **VISION** | Life Saving Technology in Every Community, in All Natural Disasters
 - 🧭 **VALUES** | Innovation | Transparency | Collaboration | Accountability
