@@ -5,7 +5,7 @@
 
 ### ⚒️ What We're Working On
 - 💻 **[Emergency Web App](https://app.emergency.company/)** | Your personal situational awareness portal for natural disasters.
-- 📱 **Emergency Mobile App** | Usable without cell reception, with cached data from 100’s of sources.
+- 📱 **[Emergency Mobile App](https://play.google.com/store/apps/details?id=com.ev.emergency/)** | Usable without cell reception, with cached data from 100’s of sources.
 
 ### 🌎 How to Help
 - 💰 **[Sponsor our Work](https://github.com/sponsors/EmergencyVentures)**
