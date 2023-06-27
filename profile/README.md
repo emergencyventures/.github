@@ -15,7 +15,8 @@
 - 💾 **[Github](https://www.github.com/)** | Code Repository | [Desktop](https://desktop.github.com/) / [VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode/)
 - 🌿 **[MongoDB](https://www.mongodb.com/)** | Database Platform | [Desktop](https://www.mongodb.com/products/compass) / [VS Code](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode/)
 - 🌎 **[ArcGIS](https://www.arcgis.com/)** | Mapping & Geolocation | Desktop / [VS Code](https://marketplace.visualstudio.com/items?itemName=Esri.arcgis-jsapi-snippets)
-- 🌎 **[Serverless](https://www.serverless.com/)** | CI / CD | 
+- 📡 **[Serverless](https://www.serverless.com/)** | CI / CD
+- 👀 **[Sentry](https://www.sentry.io/)** | Monitoring
 
 ### 🌎 How to Help
 - 💰 **[Sponsor our Work](https://github.com/sponsors/EmergencyVentures)**
