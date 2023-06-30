@@ -7,6 +7,10 @@
 - 💻 **[Emergency Web App](https://app.emergency.company/)** | Your personal situational awareness portal for natural disasters.
 - 📱 **[Emergency Mobile App](https://play.google.com/store/apps/details?id=com.ev.emergency/)** | Usable without cell reception, with cached data from 100’s of sources.
 
+### 🌎 How to Help
+- 💰 **[Sponsor our Work](https://github.com/sponsors/EmergencyVentures)**
+- ☕ **[Buy our Team Coffee](https://www.buymeacoffee.com/EmergencyTeam)**
+
 ### ⚒️ Tools we Use
 - ☁️ **[AWS](https://aws.amazon.com/)** | Cloud Provider | Desktop / [VS Code](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode)
 - 🗞️ **[Linear](https://linear.app/)** | Product Management | [Desktop](https://linear.app/docs/get-the-app/) / [VS Code](https://marketplace.visualstudio.com/items?itemName=Linear.linear-open-issue/)
@@ -23,10 +27,6 @@
 - 💽 **[NodeJS](https://nodejs.org/en)** | Back End Code
 - 📡 **[Serverless](https://www.serverless.com/)** | Back End Architecture
 - 🧶 **[Yarn](https://yarnpkg.com/)** | Libraries
-
-### 🌎 How to Help
-- 💰 **[Sponsor our Work](https://github.com/sponsors/EmergencyVentures)**
-- ☕ **[Buy our Team Coffee](https://www.buymeacoffee.com/EmergencyTeam)**
 
 ### 🙏 Volunteer Corps Contributions
 - ⚖️ **[What's a Contributor Agreement](https://en.wikipedia.org/wiki/Contributor_License_Agreement)** | All volunteer contributions are subject to our CLA.
